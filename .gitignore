@@ -1,0 +1,4 @@
+# Don't include dataset in repo
+datasets
+
+.venv
